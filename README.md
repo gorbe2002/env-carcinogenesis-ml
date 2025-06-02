@@ -84,3 +84,20 @@ Bladder Pollution:
 ## Methodology Overview
 
 ## Results
+Bladder Cancer Model Results:
+
+|   Model   |   Mean Squared Error (MSE) |   R<sup>2</sup> Score  |
+| --------- | -------------------------- | ---------------------- |
+| Emsemble LSTM | 0.00000012 | 0.5628289 |
+| Two-Stage | 0.00000018 | 0.3753374 |
+| Trend | 0.00000017 | 0.4119355 |
+| Ultra Emsemble | 0.00000010 | 0.6583507 |
+
+Lung Cancer Model Results:
+
+|   Model   |   Mean Squared Error (MSE) |   R<sup>2</sup> Score  |
+| --------- | -------------------------- | ---------------------- |
+| Emsemble LSTM | 0.00000130 | 0.3011947 |
+| Two-Stage | 0.00000128 | 0.3120608 |
+| Trend | 0.00000135 | 0.2721805 |
+| Ultra Emsemble | 0.00000093 | 0.5001329 |
