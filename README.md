@@ -30,8 +30,8 @@ healthcare-capstone/
 ├── feature_engineering.ipynb               # Feature engineering steps
 ├── linRegAndSVRmodels.ipynb                # Linear Regression and SVR models
 ├── model.ipynb                             # Additional modeling approaches
-├── Lung_Cancer_Prediction_Model.ipynb                        # Final Model for Lung Cancer Prediction
-├── Bladder_Cancer_Prediction_Model.ipynb                     # Final Model for Bladder Cancer Prediction
+├── Lung_Cancer_Prediction_Model.ipynb      # Final Model for Lung Cancer Prediction
+├── Bladder_Cancer_Prediction_Model.ipynb   # Final Model for Bladder Cancer Prediction
 ├── spatial-temporal gnn.ipynb              # Spatial-temporal gnn model
 └── modelcomparison_transformer.ipynb       # Model comparison using transformers
 
@@ -102,3 +102,4 @@ Lung Cancer Model Results:
 | Two-Stage | 0.00000116 | 0.3733 |
 | Trend | 0.00000133 | 0.2817 |
 | Ultra Ensemble | 0.000001 | 0.4598 |
+
